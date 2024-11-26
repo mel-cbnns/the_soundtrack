@@ -1,0 +1,74 @@
+h1	{
+	color: #2e2e3a;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 100px;
+	text-align: center;
+}
+body	{
+	background-image: url(fond.jpeg)
+}
+h2	{
+	color: #37515f;
+	font-family: "Reenie Beanie", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	text-align: center;
+}
+
+h3	{
+	color: #14213d;
+	font-family: "Reenie Beanie", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+
+}
+
+h4	{
+	color: #14213d;
+	font-family: "Reenie Beanie", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+
+}
+
+h5	{
+	color: #14213d;
+	font-family: "Reenie Beanie", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+
+}
+
+h6	{
+	color: #14213d;
+	font-family: "Reenie Beanie", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Lacquer", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+
+}
+
+.flexbox {
+	display: flex;
+}
